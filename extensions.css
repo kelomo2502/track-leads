@@ -8,6 +8,7 @@ body{
    
     
 }
+
 #input-el{
     display: block;
     width: calc(100% - 42px);
@@ -16,7 +17,7 @@ body{
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 15px;
-    border: 1px solid#5f9341;
+    border: 1px solid #f59b42;
     border-radius: 5px;
     background-color: #edf1ea;
 }
@@ -25,16 +26,16 @@ button{
     padding: 10px 5px;
     text-transform: uppercase;
     font-size: 1rem;
-    background-color: #5f9341;
+    background-color: #f59b42;
     color: aliceblue;
-    border: 1px solid #5f9341;;
+    border: 1px solid #f59b42;
     border-radius: 2px;
     margin-left: 1.5px;
     cursor: pointer;
 }
 #delete-btn{
     background: #ffffff;
-    color: #5f9341;;
+    color: #f59b42;
 }
 ul{
   padding-left: 10px;
@@ -47,10 +48,10 @@ li{
 }
 a{
     text-decoration: none;
-    color: #5f9341;
+    color: #f59b42;
     
   
 }
 #input-btn{
-    margin-left: 14px;
+    margin-left: 20px;
 }
